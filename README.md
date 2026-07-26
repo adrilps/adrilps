@@ -1,7 +1,7 @@
 ## Hey there, Stranger! 👋
 
 ### My name is **Paulo**, I'm a comp. sci. aficionado that loves **data science** and **system development**. 
-### I'm also very much into games and game development so some of what you find might be related to that.
+### I'm also very much into games and game development, so some of what you find might be related to that.
 
 ### Feel free to roam around the profile!
 <!--
