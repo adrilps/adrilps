@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hey there, Stranger! 👋
 
+### My name is Paulo, I'm a comp. sci. aficionado that loves data science and system development. 
+### I'm also very much into games so some of what you find might be related to that.
 <!--
 **adrilps/adrilps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
